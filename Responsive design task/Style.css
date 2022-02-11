@@ -1,0 +1,12 @@
+body {
+    background-color: aqua;
+    margin: 0;
+}
+
+.cirkel {
+    background-color: yellow;
+    border-radius: 50%;
+    height: 55vw;
+    width: 55vw;
+    margin: 0 auto; 
+}
